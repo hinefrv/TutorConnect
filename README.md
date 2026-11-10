@@ -101,8 +101,4 @@ Dừng các container khi không dùng:
 
 ```powershell
 docker compose down
-```
 
-## Trạng thái hiện tại
-
-- Hoàn thành **Project Setup** (Monorepo, NestJS skeleton, Next.js skeleton, Shared package, Docker Compose).
